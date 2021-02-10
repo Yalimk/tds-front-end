@@ -8,7 +8,7 @@ import ChatForm from "../../components/chat/ChatForm";
 import { isLoggedIn } from "../../logic/auth/index";
 
 // Constants definition
-const URL = `ws://localhost:9092`;
+const URL = `ws://64.225.110.234/tds`;
 
 // eslint-disable-next-line no-empty-pattern
 class Taverne extends Component {
